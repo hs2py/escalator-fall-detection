@@ -69,7 +69,7 @@ https://github.com/user-attachments/assets/b3c13540-f2db-42a8-8ff4-a582fb7e5d39
 **구현 과정**  
 1. **ByteTrack** : track_id별 bbox 정보 수집  
 2. **MMPose** : Skeleton Feature 추출  
-3. **Fusion (EGRU + ST-GCN)** : BBox Feature + Skeleton Feature 융합, Ensemble Inference 실행  
+3. **Fusion (EGRU + ST-GCN)** : BBox Feature + Skeleton Feature 융합, Fusion Inference 실행  
 
 ---.
 
