@@ -56,7 +56,7 @@ https://github.com/user-attachments/assets/7eb9e400-7580-40dc-bdf2-d8e0dd79a52b
 
 ---   
 
-## 🚀 demo 3) ByteTrack + ENSEMBLE(EGRU/ST-GCN)
+## 🚀 demo 3) ByteTrack + Branch Fusion (EGRU/ST-GCN)
 
 
 
